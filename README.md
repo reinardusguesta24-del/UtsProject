@@ -1,5 +1,4 @@
-## Diagram Alur Kerja (Rendered by Mermaid)
-
+ Diagram Alur Kerja (Rendered by Mermaid)
 ```mermaid
 graph TD
     A[Mulai] --> B(Proses 1);
