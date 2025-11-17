@@ -1,3 +1,5 @@
+NAMA: REINARDUS GUESTA DERAZIO
+NIM: 245410096
 UTS Sistem Terdistribusi
 Konsep Sistem Terdistribusi: CAP, BASE, dan GraphQ
  1. CAP Theorem vs. Filosofi B
