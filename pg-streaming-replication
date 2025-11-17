@@ -1,1 +1,10 @@
+pg-streaming-replication/
+├── docker-compose.yml
+├── primary/
+│   ├── initdb/
+│   │   └── 01-init-replication.sql
+│   └── postgresql.conf.append.sql
+└── replica/
+    ├── Dockerfile
+    └── entrypoint.sh
 
