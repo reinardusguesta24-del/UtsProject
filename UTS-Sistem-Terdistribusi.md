@@ -1,4 +1,5 @@
 NAMA: REINARDUS GUESTA DERAZIO
+
 NIM: 245410096
 
 UTS Sistem Terdistribusi
