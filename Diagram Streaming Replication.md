@@ -1,7 +1,4 @@
-## Diagram Streaming Replication PostgreSQL
-```mermaid
-graph TD
-    A[Primary DB: master_db :5432] -->|1. Transaksi (INSERT/UPDATE)| B(WAL Log);
+ A[Primary DB: master_db :5432] -->|1. Transaksi (INSERT/UPDATE)| B(WAL Log);
     B -->|2. WAL Stream| C(Jaringan);
     C -->|3. Streaming Connection (primary_conninfo)| D[Replica DB: slave_db :5433];
     D --> E(WAL Apply/Replay);
