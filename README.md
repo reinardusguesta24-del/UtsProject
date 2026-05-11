@@ -1,5 +1,10 @@
 
-   A[Halaman Utama Sistem]
+  # Rancangan Antarmuka Pengguna
+
+```mermaid
+flowchart TD
+
+    A[Halaman Utama Sistem]
 
     A --> B[Header Aplikasi]
     B --> B1[Judul Analisis Sentimen]
